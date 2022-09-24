@@ -1,0 +1,7 @@
+"""
+"""
+
+SAMPLE_NUM = 320
+APP_NAME = "swiftkey"
+SEED_INFO = 1234
+SEED_NONINFO = 4321
